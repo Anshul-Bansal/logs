@@ -1,2 +1,4 @@
 # logs
-interview questions and generic methods
+interview questions
+
+generic methods and classes that can be used throughout career
